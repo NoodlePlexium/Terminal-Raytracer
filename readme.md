@@ -1,1 +1,1 @@
-![Description of Image](https://example.com/path/to/image.png)
+![Terminal Raytraced Render](https://github.com/NoodlePlexium/Terminal-Raytracer/blob/master/Terminal%20Raytracer.png)
