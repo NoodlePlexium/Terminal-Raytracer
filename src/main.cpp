@@ -41,11 +41,6 @@ int main()
         RayTrace(window, spheres, 8, 100);
 
 
-        // display frame time
-        std::string framerateString = "[Frame Time] " + std::to_string(frameTime) + " ms";
-        TerminalEngine::DrawText(framerateString, 2, 1, TerminalEngine::Colour(255, 255, 255), window);
-    
-
         window.Render();
         
 
